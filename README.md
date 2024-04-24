@@ -1,4 +1,4 @@
-<a href="https://caikesantos.vercel.app"><img width=100% src="https://github.com/CaikeSantos/CaikeSantos/assets/84350582/b82106af-b6d2-4f99-b2f9-169356714046" /></a>
+<a href="https://caikesantos.vercel.app" target="_blank"><img width=100% src="https://github.com/CaikeSantos/CaikeSantos/assets/84350582/b82106af-b6d2-4f99-b2f9-169356714046" /></a>
 
 <div align="center">
     <a href="https://caikesantos.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
